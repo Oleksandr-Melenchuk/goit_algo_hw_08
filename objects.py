@@ -111,9 +111,4 @@ class AddressBook(UserDict):
         
         return upcoming_birthdays
 
-data = Birthday('20.02.2025')
-
-data.check(data)
-
-
 
